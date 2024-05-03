@@ -3,11 +3,13 @@
 __This project was created using Django. We utilized Figma Design to understand which APIs we should create.__
 
 ## Table of Contents
-- [Figma Design](#figma)
-- [Api Documentation](#documentation)
+### - [Figma Design](#figma)
+### - [Api Documentation](#documentation)
+### - [Installation APIs Django](#installation)
+### - [YouTube Video](#video)
 
-## Figma Design
 <a name="figma"></a>
+## Figma Design
 
 _Figma: https://www.figma.com/file/egRRhvy3aTuCwMj4PapUsL/ProjectYouTube?type=design&node-id=0%3A1&mode=design&t=ixLnUWtVP9alOqHP-1_
 
@@ -17,11 +19,12 @@ _Figma: https://www.figma.com/file/egRRhvy3aTuCwMj4PapUsL/ProjectYouTube?type=de
   <img src="https://github.com/Kurosu9/try_youtube/assets/99824788/89e51b4a-cb86-4ca9-9372-bd2b9a70023d" width="150" height="300">
 </p>
 
-## Api Documentation(Swagger)
 <a name="documentation"></a>
+## Api Documentation(Swagger)
 
 _Swagger server: http://127.0.0.1:8000/docs/_
 
+<a name="installation"></a>
 ## Installation APIs Django
 
 1. Clone the repository: `git clone https://github.com/Kurosu9/try_youtube.git`
@@ -30,4 +33,9 @@ _Swagger server: http://127.0.0.1:8000/docs/_
 4. Install from requirements.txt libraries: `pip install -r requirements.txt`
 5. Run the server: `python manage.py runserver`
 6. Click on link thats on terminal
+
+<a name="video"></a>
+## YouTube Video
+[Link to Video]()
+
 
