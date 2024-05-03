@@ -14,6 +14,5 @@ class Video(models.Model):
     channel = models.ForeignKey(to=Channel, on_delete=models.SET_NULL, null=True, related_name="video_channel")
     date = models.DateTimeField(verbose_name='Date', default=datetime.now)
 
-
     def str(self):
         return self.title
