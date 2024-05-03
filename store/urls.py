@@ -24,6 +24,8 @@ urlpatterns = [
     path("video/", include("video.urls")),
     path("short/", include("shorts.urls")),
     path("comment/", include("comment.urls")),
+    path("channel/", include("channel.urls")),
+
 ]
 
 from django.conf.urls.static import static
