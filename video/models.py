@@ -1,6 +1,6 @@
 from django.db import models
 from user.models import User
-from channel.models import Channel
+from channel.models import Channel, Playlist
 from datetime import datetime
 
 class Video(models.Model):
@@ -12,6 +12,7 @@ class Video(models.Model):
     likes = models.PositiveIntegerField(verbose_name='Likes', default=0)
     comments = models.PositiveIntegerField(verbose_name='Comments', default=0)
     channel = models.ForeignKey(to=Channel, on_delete=models.SET_NULL, null=True, related_name="video_channel")
+    playlist = models.ForeignKey(to=Playlist, on_delete=models.SET_NULL, null=True, related_name="video_playlist")
     date = models.DateTimeField(verbose_name='Date', default=datetime.now)
 
     def str(self):
