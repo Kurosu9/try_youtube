@@ -23,7 +23,10 @@ _Figma: https://www.figma.com/file/egRRhvy3aTuCwMj4PapUsL/ProjectYouTube?type=de
 <a name="architecture"></a>
 ## Architeccture
 __This is our plan, we decided to do__
-![photo_2024-05-10_09-30-52](https://github.com/Kurosu9/try_youtube/assets/99824788/181451e3-88a2-495d-9918-3aba60a33675)
+https://docs.google.com/document/d/1Z0f06a7yf7HNqtqRbIghRbk4nbjMtfraficipQblC4Q/edit
+<p>
+  <img src="https://github.com/Kurosu9/try_youtube/assets/99824788/181451e3-88a2-495d-9918-3aba60a33675" width="500" height="800">
+</p>
 
 <a name="documentation"></a>
 ## Api Documentation(Swagger)
