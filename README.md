@@ -4,6 +4,7 @@ __This project was created using Django. We utilized Figma Design to understand 
 
 ## Table of Contents
 ### - [Figma Design](#figma)
+### - [Architecture](#architecture)
 ### - [Api Documentation](#documentation)
 ### - [Installation APIs Django](#installation)
 ### - [YouTube Video](#video)
@@ -18,6 +19,11 @@ _Figma: https://www.figma.com/file/egRRhvy3aTuCwMj4PapUsL/ProjectYouTube?type=de
   <img src="https://github.com/Kurosu9/try_youtube/assets/99824788/991db8e1-2d64-4d44-9051-97953571d1e1" width="150" height="300">
   <img src="https://github.com/Kurosu9/try_youtube/assets/99824788/89e51b4a-cb86-4ca9-9372-bd2b9a70023d" width="150" height="300">
 </p>
+
+<a name="architecture"></a>
+## Architeccture
+__This is our plan, we decided to do__
+![photo_2024-05-10_09-30-52](https://github.com/Kurosu9/try_youtube/assets/99824788/181451e3-88a2-495d-9918-3aba60a33675)
 
 <a name="documentation"></a>
 ## Api Documentation(Swagger)
@@ -35,7 +41,5 @@ _Swagger server: http://127.0.0.1:8000/docs/_
 6. Click on link thats on terminal
 
 <a name="video"></a>
-## YouTube Video
-[Link to Video]()
 
 
